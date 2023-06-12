@@ -1,0 +1,10 @@
+* json-streams
+
+Common Lisp library for reading and writing JSON.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/rotatef/json-streams.git   |
+| commit  | 5da012e  |
+| systems | json-streams |
+|---------+-------------------------------------------|
+
